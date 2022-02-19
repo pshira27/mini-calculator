@@ -1,0 +1,10 @@
+D:\Workspace\Mini-Calculator\Mini-Calculator\bin\Debug\Mini-Calculator.exe.config
+D:\Workspace\Mini-Calculator\Mini-Calculator\bin\Debug\Mini-Calculator.exe
+D:\Workspace\Mini-Calculator\Mini-Calculator\bin\Debug\Mini-Calculator.pdb
+D:\Workspace\Mini-Calculator\Mini-Calculator\obj\Debug\Mini-Calculator.csprojAssemblyReference.cache
+D:\Workspace\Mini-Calculator\Mini-Calculator\obj\Debug\Mini_Calculator.Calculator.resources
+D:\Workspace\Mini-Calculator\Mini-Calculator\obj\Debug\Mini_Calculator.Properties.Resources.resources
+D:\Workspace\Mini-Calculator\Mini-Calculator\obj\Debug\Mini-Calculator.csproj.GenerateResource.cache
+D:\Workspace\Mini-Calculator\Mini-Calculator\obj\Debug\Mini-Calculator.csproj.CoreCompileInputs.cache
+D:\Workspace\Mini-Calculator\Mini-Calculator\obj\Debug\Mini-Calculator.exe
+D:\Workspace\Mini-Calculator\Mini-Calculator\obj\Debug\Mini-Calculator.pdb
